@@ -1,4 +1,4 @@
-.title {
+title {
     text-align: center;
 }
 
@@ -12,4 +12,5 @@ body {
 /* Style headings with a decorative font */
 h1, h2, h3 {
     font-family: 'Pacifico', cursive; /* Fun, decorative font */
+    text-align: center;
 }
