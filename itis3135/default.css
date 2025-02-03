@@ -7,6 +7,7 @@ body {
     background-color: gray; /* Gray background */
     color: blue; /* Blue text */
     font-family: 'Montserrat', sans-serif; /* Modern sans-serif font */
+    text-align: right;
 }
 
 /* Style headings with a decorative font */
