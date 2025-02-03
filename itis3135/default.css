@@ -1,5 +1,6 @@
 title {
     text-align: center;
+    font-family: 'Pacifico', cursive;
 }
 
 /* Apply styles to the body */
@@ -7,7 +8,7 @@ body {
     background-color: gray; /* Gray background */
     color: blue; /* Blue text */
     font-family: 'Montserrat', sans-serif; /* Modern sans-serif font */
-    text-align: right;
+    text-align: center;
 }
 
 /* Style headings with a decorative font */
