@@ -1,9 +1,11 @@
-title{
+.title {
     text-align: center;
 }
+
+/* Apply styles to the body */
 body {
-    background-color: gray; /* Light blue background */
-    color: blue; /* blue text */
+    background-color: gray; /* Gray background */
+    color: blue; /* Blue text */
     font-family: 'Montserrat', sans-serif; /* Modern sans-serif font */
 }
 
