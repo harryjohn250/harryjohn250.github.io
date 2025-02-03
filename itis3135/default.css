@@ -12,7 +12,7 @@ body {
 }
 
 /* Style headings with a decorative font */
-h1, h2, h3 {
+h1, h2, h3, p {
     font-family: 'Montserrat', sans-serif ; 
     text-align: center;
 }
