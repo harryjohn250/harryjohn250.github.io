@@ -5,8 +5,8 @@ title {
 
 /* Apply styles to the body */
 body {
-    background-color: gray; /* Gray background */
-    color: blue; /* Blue text */
+    background-color: #1b1b32; /*Dark navy*/
+    color: rgb(251, 251, 251); /* white text */
     font-family: 'Montserrat', sans-serif; /* Modern sans-serif font */
     text-align: center;
 }
@@ -17,10 +17,6 @@ h1, h2, h3, p {
     text-align: center;
 }
 
-p{
-    font-family: 'Pacifico', cursive; /* Fun, decorative font */
-
-}
 
 footer{
     text-align: center;
