@@ -7,19 +7,19 @@ title {
 body {
     background-color: #1b1b32; /*Dark navy*/
     color: rgb(251, 251, 251); /* white text */
-    font-family: 'Montserrat', sans-serif; /* Modern sans-serif font */
+    font-family: sans-serif;   /*  sans-serif font */
     text-align: center;
 }
 
 /* Style headings with a decorative font */
 h1, h2, h3, p {
-    font-family: 'Montserrat', sans-serif ; 
+    font-family: 'Montserrat', sans-serif;   /*  sans-serif font */
     text-align: center;
 }
 
 
 footer{
     text-align: center;
-    font-family: 'Pacifico', cursive; /* Fun, decorative font */
+    font-family: cursive; /*  cursive font?? */
 
 }
