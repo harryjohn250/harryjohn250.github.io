@@ -26,11 +26,9 @@ footer{
 }
 
 link{
-    a:link {
         color: #47649A;
         background-color: transparent;
         text-decoration: none;
-      }
       
       a:visited {
         color: #E0E1DD;
