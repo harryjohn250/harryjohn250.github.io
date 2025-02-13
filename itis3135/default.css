@@ -25,26 +25,26 @@ footer{
 
 }
 
-link{
-        color: #47649A;
-        background-color: transparent;
-        text-decoration: none;
-      
-      a:visited {
-        color: #E0E1DD;
-        background-color: transparent;
-        text-decoration: none;
-      }
-      
-      a:hover {
-        color: #778DA9;
-        background-color: transparent;
-        text-decoration: underline;
-      }
-      
-      a:active {
-        color: #415A77;
-        background-color: transparent;
-        text-decoration: underline;
-      }
+a:link {
+    color: #47649A;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #E0E1DD;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #778DA9;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #415A77;
+    background-color: transparent;
+    text-decoration: underline;
 }
