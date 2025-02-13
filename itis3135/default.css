@@ -26,9 +26,27 @@ footer{
 }
 
 link{
-    color: #778da9;
-    font-family: "Outfit, serif";
-    font-optical-sizing: auto;
-    font-weight: 100;
-    font-style: normal;
+    a:link {
+        color: #47649A;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: #E0E1DD;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: #778DA9;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: #415A77;
+        background-color: transparent;
+        text-decoration: underline;
+      }
 }
