@@ -11,9 +11,24 @@ h1, h2, h3 {
     color:#e0e1dd;
 }
 
+p{
+    color:#e0e1dd;
+    text-align: center;
+    font-family: sans-serif;
+}
+
 
 footer{
     font-family: Verdana, sans-serif; /*  verdana sans serif */
+    color: #e0e1dd;
     text-align: center;
 
+}
+
+link{
+    color: #778da9;
+    font-family: "Outfit, serif";
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
 }
