@@ -25,7 +25,7 @@ footer{
 
 }
 
-a:link {
+a:link, nav {
     color: #47649A;
     background-color: transparent;
     text-decoration: none;
