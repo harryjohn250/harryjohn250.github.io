@@ -1,51 +1,69 @@
 body {
-    background-color: #56585b; /*gray*/
-    color: #00ccf5; /* platinum text */
-    font-family: sans-serif;   /*  sans-serif font */
+    background-color: #2F4858; /* charcoal */
     text-align: center;
 }
 
-h1, h2, h3 {
-    font-family: 'Trebuchet MS', sans-serif;   /*  sans-serif font */
-    text-align: center;
-    color:#e0e1dd;
+.sitehead {
+  border: 2px solid #DAF7DC; /* nyanza */
+  padding: 10px; /* text-> border space */
+  width: fit-content; /* width fits content */
+  margin: 10px; 
+  color: #9EE493; /* light green */
+  background-color: #336699; /*lapis lazuli*/
+  text-align: center;
+  font-family: sans-serif;
 }
 
-p{
-    color:#e0e1dd;
-    text-align: center;
-    font-family: sans-serif;
-}
 
-
-footer{
-    font-family: Verdana, sans-serif; /*  verdana sans serif */
-    color: #e0e1dd;
-    text-align: center;
-    margin-top: 20px;
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #86BBD8;
 
 }
+h2 {
+    color: #4B6F67; /*hookers green*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    color: #DAF7DC;
+    
+}
+h4 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    color: #679676;
+}
+.container {
+    display: flex;
+    flex-direction: column; /* vertical stack */
+    justify-content: space-between; /* Even space */
+    height: 100%; /* 100% height */
+}
 
-a:link, nav {
-    color: #47649A;
-    background-color: transparent;
-    text-decoration: none;
+.links{
+    text-align: center;
 }
 
 a:visited {
-    color: #E0E1DD;
-    background-color: transparent;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #778DA9;
-    background-color: transparent;
-    text-decoration: underline;
+   color: #1C3738; 
 }
 
 a:active {
-    color: #415A77;
-    background-color: transparent;
-    text-decoration: underline;
+    color: #F4FFF8;
+}
+a:hover {
+    color: #8BAAAD;
+}
+
+.links {
+    color: #F4FFF8;
+}
+
+.copyright {
+    color: #F4FFF8;;
+}
+
+a {
+  color: #F4FFF8;
+  text-decoration: underline;  
 }
