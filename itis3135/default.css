@@ -42,6 +42,7 @@ h4 {
     flex-direction: column; /* vertical stack */
     justify-content: space-between; /* Even space */
     height: 100%; /* 100% height */
+    align-items: center;
 }
 
 .links{
@@ -70,4 +71,34 @@ a:hover {
 a {
   color: #F4FFF8;
   text-decoration: underline;  
+}
+
+.imageharry{
+    width: 250px;
+    height: auto;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+figcaption{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: white;
+    font-weight: normal;
+
 }
