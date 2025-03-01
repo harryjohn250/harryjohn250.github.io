@@ -2,6 +2,9 @@ body {
     background-color: #2F4858; /* charcoal */
     text-align: center;
 }
+p{
+    color: white;
+}
 
 .sitehead {
   border: 2px solid #DAF7DC; /* nyanza */
