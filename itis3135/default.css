@@ -45,14 +45,14 @@ h4 {
 }
 
 a:visited {
-   color: #1C3738; 
+   color: #00f7ff; 
 }
 
 a:active {
     color: #F4FFF8;
 }
 a:hover {
-    color: #8BAAAD;
+    color: #d8ef09;
 }
 
 .links {
